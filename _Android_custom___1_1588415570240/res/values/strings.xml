@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- custom___1 strings -->
+
+	<string name="app_name">custom  1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="type_something_string">Type something</string>
+	<string name="symptoms_string">Symptoms</string>
+	<string name="more_string">more</string>
+	<string name="more_ek1_string">more</string>
+	<string name="high_fever_string">High Fever</string>
+	<string name="_87_discussion_string">87 Discussion</string>
+	<string name="tiredness_string">Tiredness</string>
+	<string name="_87_discussion_ek1_string">87 Discussion</string>
+	<string name="dry_cough_string">Dry Cough</string>
+	<string name="_87_discussion_ek2_string">87 Discussion</string>
+	<string name="requirements_string">Requirements</string>
+	<string name="covid___19_string">COVID - 19</string>
+	<string name="sanitizer_string">Sanitizer</string>
+	<string name="mask_string">Mask</string>
+	<string name="alcohol_string">Alcohol</string>
+	<string name="learn_more_string">Learn More</string>
+</resources>

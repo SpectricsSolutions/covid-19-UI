@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- custom___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__custom___1_color">#ffffff</color>
+	<color name="image_6_color">#000000</color>
+	<color name="rectangle_29_color">#f5f8ff</color>
+	<color name="ellipse_1_color">#ff3171</color>
+	<color name="type_something_color">#707070</color>
+	<color name="symptoms_color">#474747</color>
+	<color name="more_color">#2a76e6</color>
+	<color name="rectangle_11_color">#ff7442</color>
+	<color name="high_fever_color">#ffffff</color>
+	<color name="rectangle_12_color">#facb39</color>
+	<color name="_87_discussion_ek1_color">#f5f5f5</color>
+	<color name="rectangle_10_color">#4d5cf0</color>
+	<color name="_87_discussion_ek2_color">#f6f6f6</color>
+	<color name="sanitizer_color">#636363</color>
+	<color name="rectangle_25_color">#ff7341</color>
+	<color name="rectangle_27_color">#111a46</color>
+	<color name="ellipse_5_color">#241f1a</color>
+	<color name="learn_more_color">#111a46</color>
+</resources>
